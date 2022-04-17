@@ -1,0 +1,15 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Spring Boot-DetalhandoInformacoesEntidade2Application<detalhando-informacoes-entidade2>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "mainClass": "br.com.zup.handora.detalhandoinformacoesentidade2.DetalhandoInformacoesEntidade2Application",
+      "projectName": "detalhando-informacoes-entidade2",
+      "args": "",
+      "envFile": "${workspaceFolder}/.env"
+    }
+  ]
+}
