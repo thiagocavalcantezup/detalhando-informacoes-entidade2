@@ -1,0 +1,1 @@
+{"info":{"name":"detalhando-informacoes-entidade2","schema":"https://schema.getpostman.com/json/collection/v2.1.0/collection.json"},"item":[{"name":"Show Pessoa","request":{"method":"GET","url":{"raw":"http://localhost:8080/api/pessoas/1","protocol":"http","host":["localhost:8080"],"path":["api","pessoas","1"],"port":"8080"}}}]}
